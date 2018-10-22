@@ -1,0 +1,29 @@
+html, body {
+    margin: 0; 
+    height: 100%; 
+    overflow: hidden;
+    background: black;
+    cursor: none;
+}
+
+a {
+    color: white;
+}
+
+
+.scrollimg {
+    position: fixed;
+    left: 0;
+    top: 50px;
+    width: 100%;
+    z-index: 1;
+}
+
+.courtain {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 180px;
+    z-index: 2;
+}
