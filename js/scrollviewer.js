@@ -34,7 +34,6 @@ $(document).ready(function(){
         
         switch(event.which) {
             case 115: //s
-            case 32:  //space  down
                 var o = s.offset();
                 o.top -= m;
                 s.offset(o);
