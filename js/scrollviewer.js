@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    var c = $(".courtain");
+    var c = $(".curtain");
     var s = $(".scrollimg");
     
     var m = 1;
@@ -59,10 +59,10 @@ $(document).ready(function(){
                 s.offset(o);
                 break;
             
-            case 116: //t courtain --
+            case 116: //t curtain --
                 c.height(c.height() - m);
                 break;
-            case 103: //g courtain ++
+            case 103: //g curtain ++
                 c.height(c.height() + m);
                 break;
                 
