@@ -1,4 +1,4 @@
-# ScollingImageViewer
+# ScrollingImageViewer
 Present a big (in height) image to the audience via projector using HTML5, CSS and jQuery.
 Originally this was used in a friend's performance of "Water Music" by John Cage to display
 the playing instructions to the audience. For copyright reasons I use another picture here.
